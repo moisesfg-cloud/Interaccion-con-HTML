@@ -22,3 +22,4 @@ function operacion(){
     resultado  =  parseInt(num1) + parseInt(num2)
     alert(`La suma de ${num1} y ${num2} es igual a ${resultado}`)
 }
+    alert("Que tengas buen día")
